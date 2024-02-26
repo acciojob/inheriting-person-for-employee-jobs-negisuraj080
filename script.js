@@ -1,6 +1,6 @@
 // complete this js code
 function Person(name, age) {
-	contructor(name,age){
+	constructor(name,age){
 		this.name = name;
 		this.age = age;
 	}
